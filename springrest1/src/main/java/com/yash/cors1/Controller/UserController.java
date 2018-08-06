@@ -24,7 +24,7 @@ public class UserController {
 	public User update2(@PathVariable int id) {
 		User user = new User();
 		user.setId(id);
-		user.setName("shahimshashaik");
+		user.setName("shahimshashaikpavani");
 		System.out.println("rest call shahismsha");
 
 		return user;
