@@ -4,5 +4,4 @@ public class Students {
 	private String name;
 	private String address;
     private String state;
-    private String test;
 }
