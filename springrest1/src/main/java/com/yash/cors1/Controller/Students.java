@@ -1,7 +1,7 @@
 package com.yash.cors1.Controller;
 
 public class Students {
-	private String names;
+	private String NAMES;
 	private String address;
     private String state;
     private String testcase;
