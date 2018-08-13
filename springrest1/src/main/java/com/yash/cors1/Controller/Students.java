@@ -2,8 +2,7 @@ package com.yash.cors1.Controller;
 
 public class Students {
 
-	private String id;
-      private String university;
+private String Branch;
 	
 
 
