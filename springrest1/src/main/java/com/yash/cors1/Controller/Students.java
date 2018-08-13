@@ -4,7 +4,8 @@ public class Students {
 
 	private String name;
 	private int salary;
-       
+	private String company;
+
 
 	
 }
