@@ -6,6 +6,7 @@ public class Students {
 	private String address;
 	private String id;
 	private String state;
+	private String dist;
 
 	
 }
