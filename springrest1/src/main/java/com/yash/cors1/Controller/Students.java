@@ -4,6 +4,7 @@ public class Students {
 
 	private String name;
 	private String hyderabad;
+	private String college;
 	
 
 
