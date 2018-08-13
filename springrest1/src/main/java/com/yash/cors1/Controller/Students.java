@@ -7,4 +7,5 @@ public class Students {
     private String state;
     private String testcase;
     private String dist;
+  private int id;
 }
