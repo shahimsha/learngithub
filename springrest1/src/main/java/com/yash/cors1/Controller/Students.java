@@ -6,5 +6,6 @@ public class Students {
 	private String address;
     private String state;
     private String testcase;
+	private String school;
 	
 }
