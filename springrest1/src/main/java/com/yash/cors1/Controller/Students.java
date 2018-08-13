@@ -4,7 +4,7 @@ public class Students {
 
 private String Branch;
 private String gender;
-
+private String name;
 
 	
 }
