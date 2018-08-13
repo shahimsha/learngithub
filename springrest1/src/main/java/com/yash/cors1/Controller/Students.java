@@ -5,7 +5,7 @@ public class Students {
 	private String name;
 
 	private String id;
-
+      private String university;
 	
 
 
