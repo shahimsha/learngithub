@@ -11,7 +11,7 @@ public class PersonDTO {
 	
 	private String firstName;
 	  private String secondName;
-	  private String salary;
-	private String branch;
+	  private String first;
+	
 
 }
