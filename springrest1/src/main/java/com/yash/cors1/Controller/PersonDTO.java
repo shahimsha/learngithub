@@ -3,7 +3,8 @@ package com.yash.cors1.Controller;
 public class PersonDTO {
 	
 	private String firstName;
-	 private String secondName;
+	private String secondName;
+	 private String first;
 	private String newfield;
 	public String getFirstName() {
 		return firstName;
@@ -23,6 +24,9 @@ public class PersonDTO {
 	public void setNewfield(String newfield) {
 		this.newfield = newfield;
 	}
+
+	
+
 	
 
 }
